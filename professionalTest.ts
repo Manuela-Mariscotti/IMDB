@@ -8,10 +8,10 @@ let LeoDicaprio = new Professional ("Leonardo DiCaprio",47,"male",89,1.83,"blond
 
 let QuentinTarantino = new Professional ("Quentin Tarantino",59,"male",85,1.82,"brown","brown","white",false,"american",1,"director, productor, guinista, actor");
 
-AlPacino.print();
+AlPacino.printProfessional();
 
-RoberDeNiro.print();
+RoberDeNiro.printProfessional();
 
-LeoDicaprio.print();
+LeoDicaprio.printProfessional();
 
-QuentinTarantino.print();
+QuentinTarantino.printProfessional();
