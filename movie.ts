@@ -13,7 +13,7 @@ export class Movie{
     public mainCharacterName:string;
     public producer:Professional;
     public distributor:string;
-    public genre:string;//13 atributos
+    public genre:string;
   
     constructor (title:string,releaseYear:number,nacionality:string,genre:string){
         this.title = title;

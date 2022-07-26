@@ -27,7 +27,7 @@ export class Professional{
         this.profession = profession;
     }
 
-    public print():void{
+    public printProfessional():void{
         console.log(`Name : ${this.name}`);
         console.log(`Age : ${this.age}`);
         console.log(`Genre : ${this.genre}`);
