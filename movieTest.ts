@@ -1,6 +1,7 @@
 import { Movie } from "./movie";
 
-get Professional()
+let miActors = new Movie("Rec",2007,"española","terror")
+    console.log(miActors.getActors)
 
 let rec = new Movie ("Rec",2007,"española","terror",);
 
