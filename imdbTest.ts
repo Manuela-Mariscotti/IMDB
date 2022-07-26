@@ -10,3 +10,5 @@ let imdb1 = new Imdb (movies1);
 let data = JSON.stringify(imdb1);
 import fs from 'fs';
 fs.writeFileSync("imdbBBDD.json",data);
+
+let imdb2 = new Imdb (JSON.parse(fs.readFileSync("imdbBBDD.json","utf-8")));
