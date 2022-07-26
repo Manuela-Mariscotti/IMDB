@@ -44,4 +44,4 @@ Interestellar.setPlatform("Netflix");
 Interestellar.setDistributor("Warner Bros.");
 //Interestellar.printMovie();
 
-
+export let movies1 = [ElPadrino2,Interestellar];
