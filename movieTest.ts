@@ -1,8 +1,5 @@
 import { Movie } from "./movie";
-import {AlPacino} from "./professionalTest"
-import {RoberDeNiro} from "./professionalTest"
-import { FrancisFordCoppola } from "./professionalTest"
-import { MarioPuzo } from "./professionalTest"
+import { Professional } from "./professional";
 
 //let actores1 = [AlPacino,RoberDeNiro]
 
