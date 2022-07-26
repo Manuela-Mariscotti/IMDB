@@ -16,7 +16,7 @@ var Professional = /** @class */ (function () {
         this.oscarNumber = oscarNumber;
         this.profession = profession;
     }
-    Professional.prototype.print = function () {
+    Professional.prototype.printProfessional = function () {
         console.log("Name : ".concat(this.name));
         console.log("Age : ".concat(this.age));
         console.log("Genre : ".concat(this.genre));
